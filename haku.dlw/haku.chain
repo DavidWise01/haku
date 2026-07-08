@@ -4,6 +4,6 @@ slug  : haku
 seal  : 4412fb48c417bc1172e0856c1131f1520594809a44a7bce0755b683a922e9589
 prev  : 2fa20ca74549d9cdd4dda6fc12df040b39074570e29ef68bfc2629b660c40eb3
 link  : cf034dc635f9f9eb598caf0110cfc4bc74eb1a7e6f204c803a557d386a2e8a6b
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
